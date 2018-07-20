@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+html{color:black;}
+/*h1 {font=size:60px:} This overrides the standard size in html*/
+p1 {font-size: 15px;
+    font-family: "Courier New", Courier, main
+    color = pink;
+}
+=======
+html{color:black;}
+/*h1 {font=size:60px:} This overrides the standard size in html*/
+p1 {font-size: 15px;
+    font-family: "Courier New", Courier, main
+    color = pink;
+}
+>>>>>>> d63d897e2600d2ab265eb473a0827ca8dbc3dfc3
